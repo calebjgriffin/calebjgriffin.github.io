@@ -3,7 +3,7 @@ title: "Test Blog Post"
 author: "Caleb Griffin"
 date: "7/8/2020"
 permalink: /posts/2020/07/blog-post-1/
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}

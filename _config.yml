@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Caleb Griffin / Site Title"
+title                    : "Caleb Griffin / My Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

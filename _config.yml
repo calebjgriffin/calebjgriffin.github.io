@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Caleb Griffin / My Website"
 title_separator          : "-"
 name                     : &name "Caleb Griffin"
-description              : &description "personal description"
+description              : &description "This is my personal website"
 url                      : https://calebjgriffin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "calebjgriffin/calebjgriffin.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "calebjgriffin@gmail.com"
   generatedFields:
     date:
       type               : "date"
